@@ -45,9 +45,9 @@ def random():
     num = int(temp, 2)
     return num
 
-for x in range(0, 100):
-    num = random()
-    print(num)
+
+num = random()
+print(num)
 
 
 #for i in temp:
